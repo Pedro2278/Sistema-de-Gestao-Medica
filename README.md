@@ -1,6 +1,6 @@
 🏥 Sistema de Gestão Médica
 
-Este projeto é um sistema completo de gerenciamento de pacientes, médicos e consultas médicas, desenvolvido como trabalho final da disciplina **Banco de Dados II** (Curso de Análise e Desenvolvimento de Sistemas - 2025.1).
+Este projeto é um sistema de gerenciamento de pacientes, médicos e consultas médicas, desenvolvido como trabalho final da disciplina **Banco de Dados II** (Curso de Análise e Desenvolvimento de Sistemas - 2025.1).
 ---
 
 📌 Funcionalidades
