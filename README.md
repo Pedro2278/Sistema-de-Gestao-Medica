@@ -29,25 +29,45 @@ Este projeto é um sistema completo de gerenciamento de pacientes, médicos e co
 
 Projeto Final/
 │
+
 ├── config/
+
 │ └── db.py # Conexão com o banco de dados
+
 │
+
 ├── controllers/
+
 │ ├── paciente_controller.py
+
 │ ├── medico_controller.py
+
 │ └── consulta_controller.py
+
 │ └──especialidade_controller.py
+
 │
+
 ├── models/
+
 │ ├── paciente.py
+
 │ ├── medico.py
+
 │ ├── consulta.py
+
 │ ├── clinica.py
+
 │ └── especialidade.py
+
 │ └──__init__.py
+
 │
+
 ├── gui.py # Arquivo principal com as telas (CustomTkinter)
+
 ├── README.md # Documentação do projeto
+
 └── requirements.txt # Dependências do projeto
 
 ## 🧠 Recursos Avançados em Banco de Dados Utilizados
