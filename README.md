@@ -85,15 +85,20 @@ git clone https://github.com/seu-usuario/nome-repositorio.git
 
 2 - Instale as dependências:
 - pip install -r requirements.txt
+- 
 3 - Configure seu banco de dados MySQL (ver config/db.py).
+  
 4 - Execute o sistema:
 - python gui.py
 
   
 👨‍💻 Desenvolvedor
 Pedro Henrique Vogado Maia
+
 Curso: Análise e Desenvolvimento de Sistemas – 2025.1
+
 Disciplina: Banco de Dados II
+
 Instituição: Instituto Federal de Ciências e Tecnologia do Pauí - Campos Corrente
 
 
