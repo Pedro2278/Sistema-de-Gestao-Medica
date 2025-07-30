@@ -6,8 +6,8 @@ Este projeto é um sistema completo de gerenciamento de pacientes, médicos e co
 📌 Funcionalidades
 
 ✅ Cadastro, atualização, busca e remoção de **pacientes**  
-✅ Cadastro e gerenciamento de **médicos** com especialidades  
-✅ Agendamento e listagem de **consultas médicas futuras**  
+✅ Gerenciamento de **médicos** com especialidades  
+✅ Listagem de **consultas médicas futuras**  
 ✅ Filtro de consultas por **nome** e por **data mínima**  
 ✅ Interface gráfica com **CustomTkinter** estilizada e responsiva  
 ✅ Integração completa com banco de dados **MySQL**
