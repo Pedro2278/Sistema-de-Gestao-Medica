@@ -28,10 +28,12 @@ Este projeto é um sistema completo de gerenciamento de pacientes, médicos e co
 ## 💾 Estrutura do Projeto
 
 Projeto Final/
+
 │
 ├── config/
 
 │ └── db.py # Conexão com o banco de dados
+
 │
 ├── controllers/
 
