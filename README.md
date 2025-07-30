@@ -87,7 +87,7 @@ Projeto Final/
 💡 Como Executar o Projeto
 
 1. Clone este repositório:
-git clone https://github.com/seu-usuario/nome-repositorio.git
+git clonehttps:http://github.com/Pedro2278/Sistema-de-Gestao-Medica
 
 2 - Instale as dependências:
 - pip install -r requirements.txt
