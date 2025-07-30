@@ -78,9 +78,7 @@ Projeto Final/
 | ✅ **Transactions** | Com `commit()` e `rollback()` em ações críticas    |
 | ✅ **Funções SQL**  | `NOW()`, filtros de datas e LIKE com `LOWER()`     |
 
----
-
-## 💡 Como Executar o Projeto
+💡 Como Executar o Projeto
 
 1. Clone este repositório:
 git clone https://github.com/seu-usuario/nome-repositorio.git
@@ -97,6 +95,7 @@ Pedro Henrique Vogado Maia
 Curso: Análise e Desenvolvimento de Sistemas – 2025.1
 Disciplina: Banco de Dados II
 Instituição: Instituto Federal de Ciências e Tecnologia do Pauí - Campos Corrente
+
 
 🧾 LICENÇA
 MIT License
