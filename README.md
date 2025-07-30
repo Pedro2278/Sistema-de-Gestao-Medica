@@ -45,6 +45,7 @@ Projeto Final/
 
 │ └──especialidade_controller.py
 │
+
 ├── models/
 
 │ ├── paciente.py
@@ -58,6 +59,7 @@ Projeto Final/
 │ └── especialidade.py
 
 │ └──__init__.py
+
 │
 ├── gui.py # Arquivo principal com as telas (CustomTkinter)
 
