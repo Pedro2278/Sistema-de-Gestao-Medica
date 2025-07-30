@@ -1,9 +1,9 @@
-# 🏥 Sistema de Gestão Médica
+🏥 Sistema de Gestão Médica
 
 Este projeto é um sistema completo de gerenciamento de pacientes, médicos e consultas médicas, desenvolvido como trabalho final da disciplina **Banco de Dados II** (Curso de Análise e Desenvolvimento de Sistemas - 2025.1).
 ---
 
-## 📌 Funcionalidades
+📌 Funcionalidades
 
 ✅ Cadastro, atualização, busca e remoção de **pacientes**  
 ✅ Cadastro e gerenciamento de **médicos** com especialidades  
@@ -14,7 +14,8 @@ Este projeto é um sistema completo de gerenciamento de pacientes, médicos e co
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+
+🛠️ Tecnologias Utilizadas
 
 - **Python 3.11+**
 - **MySQL**
@@ -25,7 +26,8 @@ Este projeto é um sistema completo de gerenciamento de pacientes, médicos e co
 
 ---
 
-## 💾 Estrutura do Projeto
+
+💾 Estrutura do Projeto
 
 Projeto Final/
 
@@ -67,7 +69,9 @@ Projeto Final/
 
 └── requirements.txt # Dependências do projeto
 
-## 🧠 Recursos Avançados em Banco de Dados Utilizados
+---
+
+🧠 Recursos Avançados em Banco de Dados Utilizados
 
 | Recurso MySQL     | Onde foi utilizado                                 |
 |-------------------|-----------------------------------------------------|
@@ -77,6 +81,8 @@ Projeto Final/
 | ✅ **Joins**        | View junta dados de consultas, médicos e pacientes |
 | ✅ **Transactions** | Com `commit()` e `rollback()` em ações críticas    |
 | ✅ **Funções SQL**  | `NOW()`, filtros de datas e LIKE com `LOWER()`     |
+
+---
 
 💡 Como Executar o Projeto
 
@@ -91,7 +97,8 @@ git clone https://github.com/seu-usuario/nome-repositorio.git
 4 - Execute o sistema:
 - python gui.py
 
-  
+---
+
 👨‍💻 Desenvolvedor
 
 Pedro Henrique Vogado Maia
@@ -102,8 +109,7 @@ Disciplina: Banco de Dados II
 
 Instituição: Instituto Federal de Ciências e Tecnologia do Pauí - Campos Corrente
 
-
-
+---
 
 🧾 LICENÇA
 MIT License
